@@ -1,0 +1,19 @@
+name: Check links in README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run lychee link checker using Docker
+      run: |
+        docker pull lycheeverse/lychee
+        docker run --rm -v ${{ github.workspace }}:/workspace lycheeverse/lychee /workspace/README.md
