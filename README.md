@@ -18,6 +18,7 @@
 - [FreeCodeCamp: Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
 - [FreeCodeCamp: Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Nana Tech World: Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Learn GO Fast: Full Tutorial](https://www.youtube.com/watch?v=8uiZC0l4Ajw&t)
 
 ### Go architecture
 - [Exploring the Power and Flexibility of the Go Runtime](https://medium.com/@jamal.kaksouri/exploring-the-power-and-flexibility-of-the-go-runtime-9a83f33001cf)
