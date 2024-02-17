@@ -9,7 +9,7 @@
     - [Go crash courses](#go-crash-courses)
 
 ## Official documentation and resources
-1. [golang.org](http://golang.org/)
+1. [go.dev](http://go.dev/)
 
 ## Learning 📖
 
