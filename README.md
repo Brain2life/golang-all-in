@@ -4,8 +4,12 @@
 [![Check links in README](https://github.com/Brain2life/golang-all-in/actions/workflows/check-links.yml/badge.svg)](https://github.com/Brain2life/golang-all-in/actions/workflows/check-links.yml)
 
 # Table of contents:
-1. [Learning](#learning)
+1. [Official documentation and resources](#official-documentation-and-resources) 
+2. [Learning](#learning)
     - [Go crash courses](#go-crash-courses)
+
+## Official documentation and resources
+1. [golang.org](http://golang.org/)
 
 ## Learning 📖
 
