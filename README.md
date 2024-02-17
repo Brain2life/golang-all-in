@@ -11,3 +11,4 @@
 
 ### Go crash courses
 - [FreeCodeCamp: Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
+- [Nana Tech World: Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
