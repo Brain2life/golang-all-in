@@ -12,6 +12,7 @@
     - [Go architecture](#go-architecture)
     - [Arrays](#arrays)
     - [Slices](#slices)
+    - [Pointers](#pointers)
 
 ## Official documentation and resources
 1. [go.dev](http://go.dev/)
@@ -37,3 +38,6 @@
 
 ### Slices
 - [Slices in Go: Grow Big or Go Home](https://victoriametrics.com/blog/go-slice/)
+
+### Pointers
+- [Pointers in Go](https://go-book.readthedocs.io/en/latest/pointers.html)
