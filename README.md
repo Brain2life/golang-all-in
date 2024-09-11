@@ -12,7 +12,7 @@
     - [Go architecture](#go-architecture)
     - [Arrays](#arrays)
     - [Slices](#slices)
-    - [Pointers](#pointers)
+    - [Memory allocations](#memory-allocations)
 
 ## Official documentation and resources
 1. [go.dev](http://go.dev/)
@@ -39,5 +39,6 @@
 ### Slices
 - [Slices in Go: Grow Big or Go Home](https://victoriametrics.com/blog/go-slice/)
 
-### Pointers
+### Memory allocations
 - [Pointers in Go](https://go-book.readthedocs.io/en/latest/pointers.html)
+- [Memory allocations in Go](https://dev.to/karankumarshreds/memory-allocations-in-go-1bpa)
