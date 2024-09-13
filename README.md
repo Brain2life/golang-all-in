@@ -16,6 +16,7 @@
 
 ## Official documentation and resources
 1. [go.dev](http://go.dev/)
+2. [Awesome Go](https://github.com/avelino/awesome-go)
 
 ## Learning 📖
 
