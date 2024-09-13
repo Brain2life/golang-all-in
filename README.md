@@ -15,8 +15,9 @@
     - [Memory allocations](#memory-allocations)
 
 ## Official documentation and resources
-1. [go.dev](http://go.dev/)
-2. [Awesome Go](https://github.com/avelino/awesome-go)
+- [go.dev](http://go.dev/)
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Awesome Go Books](https://github.com/dariubs/GoBooks)
 
 ## Learning 📖
 
