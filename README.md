@@ -26,6 +26,7 @@
 - [FreeCodeCamp: Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Nana Tech World: Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - [Learn GO Fast: Full Tutorial](https://www.youtube.com/watch?v=8uiZC0l4Ajw&t)
+- [Exercism: Go track](https://exercism.org/tracks/go)
 
 ### Go blogs
 - [VictoriaMetrics Blog](https://victoriametrics.com/blog/categories/go-@-victoriametrics/)
