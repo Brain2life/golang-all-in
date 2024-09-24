@@ -18,6 +18,9 @@
 - [go.dev](http://go.dev/)
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Awesome Go Books](https://github.com/dariubs/GoBooks)
+- [Official "Getting Started" Docs](https://golang.org/doc/#getting-started)
+- ["Go language specification"](https://go.dev/ref/spec)
+- [Find Go Packages](https://pkg.go.dev/)
 
 ## Learning 📖
 
@@ -27,6 +30,7 @@
 - [Nana Tech World: Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - [Learn GO Fast: Full Tutorial](https://www.youtube.com/watch?v=8uiZC0l4Ajw&t)
 - [Exercism: Go track](https://exercism.org/tracks/go)
+- [Go by Example](https://gobyexample.com/)
 
 ### Go blogs
 - [VictoriaMetrics Blog](https://victoriametrics.com/blog/categories/go-@-victoriametrics/)
