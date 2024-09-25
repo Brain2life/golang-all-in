@@ -31,6 +31,7 @@
 - [Learn GO Fast: Full Tutorial](https://www.youtube.com/watch?v=8uiZC0l4Ajw&t)
 - [Exercism: Go track](https://exercism.org/tracks/go)
 - [Go by Example](https://gobyexample.com/)
+- [YouTube: ZeroToMastery Go crash course](https://www.youtube.com/watch?v=S65k7Tubbck)
 
 ### Go blogs
 - [VictoriaMetrics Blog](https://victoriametrics.com/blog/categories/go-@-victoriametrics/)
